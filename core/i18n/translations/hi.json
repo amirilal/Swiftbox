@@ -1,0 +1,54 @@
+{
+  "tabs": {
+    "home": "होम",
+    "tools": "उपकरण",
+    "fun": "मनोरंजन",
+    "settings": "सेटिंग्स"
+  },
+  "home": {
+    "welcome": "SwiftBox में आपका स्वागत है",
+    "subtitle": "उत्पादकता और मनोरंजन के लिए आपका ऑल-इन-वन टूलकिट",
+    "quickAccess": "त्वरित पहुंच",
+    "recentlyUsed": "हाल ही में उपयोग किया गया"
+  },
+  "tools": {
+    "title": "उपकरण",
+    "imageCompress": "चित्र संपीड़न",
+    "imageToPdf": "चित्र से PDF",
+    "mergePdf": "PDF मर्ज करें",
+    "qrScanner": "QR/बारकोड स्कैनर",
+    "imageCompressDesc": "फ़ाइल का आकार कम करने के लिए चित्रों को संपीड़ित करें",
+    "imageToPdfDesc": "कई चित्रों को PDF में बदलें",
+    "mergePdfDesc": "कई PDF फ़ाइलों को मिलाएं",
+    "qrScannerDesc": "QR कोड और बारकोड स्कैन करें"
+  },
+  "fun": {
+    "title": "मनोरंजन",
+    "game2048": "2048 खेल",
+    "dailyQuote": "दैनिक उद्धरण",
+    "game2048Desc": "क्लासिक 2048 पहेली खेल",
+    "dailyQuoteDesc": "आपके दिन को उज्ज्वल बनाने वाले प्रेरणादायक उद्धरण"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "theme": "थीम",
+    "language": "भाषा",
+    "notifications": "सूचनाएं",
+    "about": "के बारे में",
+    "light": "हल्का",
+    "dark": "गहरा",
+    "system": "सिस्टम",
+    "version": "संस्करण"
+  },
+  "common": {
+    "back": "वापस",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "save": "सहेजें",
+    "share": "साझा करें",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "tryAgain": "पुनः प्रयास करें"
+  }
+}

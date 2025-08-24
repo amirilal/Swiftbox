@@ -1,0 +1,54 @@
+{
+  "tabs": {
+    "home": "Home",
+    "tools": "Tools",
+    "fun": "Fun",
+    "settings": "Settings"
+  },
+  "home": {
+    "welcome": "Welcome to SwiftBox",
+    "subtitle": "Your all-in-one toolkit for productivity and fun",
+    "quickAccess": "Quick Access",
+    "recentlyUsed": "Recently Used"
+  },
+  "tools": {
+    "title": "Tools",
+    "imageCompress": "Image Compression",
+    "imageToPdf": "Images to PDF",
+    "mergePdf": "Merge PDFs",
+    "qrScanner": "QR/Barcode Scanner",
+    "imageCompressDesc": "Compress images to reduce file size",
+    "imageToPdfDesc": "Convert multiple images to PDF",
+    "mergePdfDesc": "Combine multiple PDF files",
+    "qrScannerDesc": "Scan QR codes and barcodes"
+  },
+  "fun": {
+    "title": "Fun",
+    "game2048": "2048 Game",
+    "dailyQuote": "Daily Quote",
+    "game2048Desc": "Classic 2048 puzzle game",
+    "dailyQuoteDesc": "Inspirational quotes to brighten your day"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "notifications": "Notifications",
+    "about": "About",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "version": "Version"
+  },
+  "common": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "share": "Share",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "tryAgain": "Try Again"
+  }
+}
