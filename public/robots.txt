@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+# Block access to sensitive areas
+Disallow: /api/
+Disallow: /.env
+Disallow: /node_modules/
+Disallow: /build/
+Disallow: /_next/
+
+# Allow access to main app areas
+Allow: /tools/
+Allow: /fun/
+Allow: /settings/
+
+# Sitemap location
+Sitemap: https://swiftbox-tools-fun.netlify.app/sitemap.xml
+
+# Crawl delay (optional - 1 second between requests)
+Crawl-delay: 1
+
+# Additional rules for specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

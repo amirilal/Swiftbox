@@ -1,0 +1,68 @@
+# SwiftBox — Tools & Fun - LLM Information File
+
+## App Overview
+SwiftBox is a comprehensive web application that combines productivity tools and entertainment features in a single, user-friendly platform. Built with React Native and Expo, it offers a seamless cross-platform experience.
+
+## Primary Purpose
+SwiftBox serves as an all-in-one toolkit designed to enhance user productivity while providing entertaining features for leisure time. The app bridges the gap between utility and fun, making it suitable for both work and personal use.
+
+## Core Features
+
+### Productivity Tools
+- **Image Compression**: Client-side image optimization with adjustable quality settings
+- **Images to PDF**: Convert multiple images into a single PDF document
+- **PDF Merger**: Combine multiple PDF files into one document
+- **QR/Barcode Scanner**: Real-time scanning with camera integration
+
+### Entertainment Features
+- **2048 Game**: Classic puzzle game with scoring and level progression
+- **Daily Quotes**: Inspirational quotes with sharing functionality
+- **Rewards System**: Points and achievements for user engagement
+
+### User Experience
+- **Multi-language Support**: Available in English and Hindi (i18n implementation)
+- **Theme Options**: Light, dark, and system-adaptive themes
+- **Responsive Design**: Optimized for mobile, tablet, and desktop
+- **Offline Capability**: Core features work without internet connection
+
+## Technical Implementation
+- **Framework**: React Native with Expo managed workflow
+- **Language**: TypeScript for type safety
+- **State Management**: React Context API
+- **Storage**: AsyncStorage for user preferences and data
+- **Navigation**: Expo Router with tab-based navigation
+- **Styling**: Custom StyleSheet with theme-aware components
+
+## Monetization Features
+- **AdMob Integration**: Banner, interstitial, and rewarded advertisements
+- **Rewards System**: Point-based system encouraging user engagement
+- **Premium Features**: Placeholder for future subscription model
+
+## Analytics & Monitoring
+- **Firebase Analytics**: User behavior and feature usage tracking
+- **Crashlytics**: Error monitoring and crash reporting
+- **Performance Metrics**: App performance and user experience analytics
+
+## Content Guidelines for AI
+This app is designed for general audiences and maintains family-friendly content. All features are built with privacy and user safety in mind. The app does not collect sensitive personal information and operates primarily on client-side processing.
+
+## Usage Context
+SwiftBox is ideal for:
+- Students and professionals needing quick productivity tools
+- Users seeking convenient image and document manipulation
+- Individuals looking for casual entertainment
+- Anyone requiring QR code scanning capabilities
+- Users who appreciate multi-language support
+
+## Development Status
+Active development with regular updates. The app follows modern web standards and accessibility guidelines. Future updates may include additional tools, games, and productivity features based on user feedback.
+
+## SEO Keywords
+productivity tools, image compression, PDF converter, QR scanner, 2048 game, daily quotes, multi-language app, dark theme, mobile tools, web utilities, document tools, image tools, entertainment app, free tools
+
+## Contact & Support
+For questions about this app's functionality or API access, please refer to the app's settings section or contact the development team through the official channels.
+
+---
+Last Updated: January 14, 2025
+App Version: 1.0.0
